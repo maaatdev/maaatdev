@@ -70,7 +70,7 @@ Certifications:
     - Google Cloud Fundamentals
 ```
 
-## Contact Information
+## Connect
 
 - **Website**: [https://mmaa.dev](https://mmaa.dev)
 - **Email**: [contact@mmaa.dev](mailto:contact@mmaa.dev)
