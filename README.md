@@ -75,10 +75,5 @@ Certifications:
 - **Website**: [https://mmaa.dev](https://mmaa.dev)
 - **Email**: [contact@mmaa.dev](mailto:contact@mmaa.dev)
 
-## Statistics
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mathis-mm&theme=dark&hide_border=true" alt="GitHub Streak" />
-<br></br>
-
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mathis-mm.mathis-mm)
 ![Profile Views](https://komarev.com/ghpvc/?username=mathis-mm&color=brightgreen&style=flat-square)
