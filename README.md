@@ -70,10 +70,5 @@ Certifications:
     - Google Cloud Fundamentals
 ```
 
-## Connect
-
-- **Website**: [https://mmaa.dev](https://mmaa.dev)
-- **Email**: [contact@mmaa.dev](mailto:contact@mmaa.dev)
-
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mathis-mm.mathis-mm)
 ![Profile Views](https://komarev.com/ghpvc/?username=mathis-mm&color=brightgreen&style=flat-square)
