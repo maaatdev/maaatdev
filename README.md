@@ -3,7 +3,9 @@
 
 <!-- HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=mat&fontSize=80&fontColor=c9d1d9&fontAlignY=50&desc=full%20stack%20%C2%B7%20network%20%C2%B7%20cybersecurity&descSize=14&descColor=6e7681&descAlignY=75&animation=fadeIn"/>
+<a href="https://github.com/maaatdev">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=mat&fontSize=80&fontColor=c9d1d9&fontAlignY=50&desc=full%20stack%20%C2%B7%20network%20%C2%B7%20cybersecurity&descSize=14&descColor=6e7681&descAlignY=75&animation=twinkling"/>
+</a>
 
 <a href="https://github.com/maaatdev">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1500&color=484f58&center=true&vCenter=true&repeat=true&width=400&height=30&lines=42+Alumni+%7C+Building+secure+systems;Network+%7C+Cloud+%7C+Low-level" alt="Typing SVG" />
