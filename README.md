@@ -5,7 +5,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=mat&fontSize=80&fontColor=c9d1d9&fontAlignY=50&desc=full%20stack%20%C2%B7%20network%20%C2%B7%20cybersecurity&descSize=14&descColor=6e7681&descAlignY=75&animation=fadeIn"/>
 
-<a href="https://github.com/mathis-mm">
+<a href="https://github.com/maaatdev">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1500&color=484f58&center=true&vCenter=true&repeat=true&width=400&height=30&lines=42+Alumni+%7C+Building+secure+systems;Network+%7C+Cloud+%7C+Low-level" alt="Typing SVG" />
 </a>
 
@@ -13,7 +13,7 @@
 
 [![Portfolio](https://img.shields.io/badge/mmaa.dev-181717?style=flat-square&logo=safari&logoColor=white)](https://mmaa.dev)&ensp;
 [![42](https://img.shields.io/badge/Alumni-181717?style=flat-square&logo=42&logoColor=white)](https://42.fr)&ensp;
-[![Views](https://komarev.com/ghpvc/?username=mathis-mm&style=flat-square&color=181717&label=views)](https://github.com/mathis-mm)
+[![Views](https://komarev.com/ghpvc/?username=maaatdev&style=flat-square&color=181717&label=views)](https://github.com/maaatdev)
 
 </div>
 
