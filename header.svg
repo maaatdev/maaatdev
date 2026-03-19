@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="100" viewBox="0 0 400 100">
+  <style>
+    @keyframes trace {
+      to {
+        stroke-dashoffset: -1000;
+      }
+    }
+    .fill {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      font-size: 80px;
+      font-weight: 700;
+      fill: #c9d1d9;
+    }
+    .stroke {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      font-size: 80px;
+      font-weight: 700;
+      fill: none;
+      stroke: #58a6ff;
+      stroke-width: 1.5;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-dasharray: 120 880;
+      stroke-dashoffset: 0;
+      animation: trace 6s linear infinite;
+    }
+  </style>
+  <text x="50%" y="58%" dominant-baseline="central" text-anchor="middle" class="fill">mat</text>
+  <text x="50%" y="58%" dominant-baseline="central" text-anchor="middle" class="stroke">mat</text>
+</svg>
