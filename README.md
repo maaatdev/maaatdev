@@ -17,7 +17,7 @@
 
 [![Portfolio](https://img.shields.io/badge/mmaa.dev-181717?style=flat-square&logo=safari&logoColor=white)](https://mmaa.dev)&ensp;
 [![42](https://img.shields.io/badge/Alumni-181717?style=flat-square&logo=42&logoColor=white)](https://42.fr)&ensp;
-[![Views](https://komarev.com/ghpvc/?username=maaatdev&style=flat-square&color=181717&label=views)](https://github.com/maaatdev)
+[![Views](https://komarev.com/ghpvc/?username=maaatdev&style=flat-square&color=181717&labelColor=181717&label=views)](https://github.com/maaatdev)
 
 </div>
 
