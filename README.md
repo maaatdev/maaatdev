@@ -12,7 +12,6 @@
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/mmaa.dev-181717?style=flat-square&logo=safari&logoColor=white)](https://mmaa.dev)&ensp;
-[![GitHub Pro](https://img.shields.io/badge/GitHub_Pro-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mathis-mm)&ensp;
 [![42](https://img.shields.io/badge/Alumni-181717?style=flat-square&logo=42&logoColor=white)](https://42.fr)&ensp;
 [![Views](https://komarev.com/ghpvc/?username=mathis-mm&style=flat-square&color=181717&label=views)](https://github.com/mathis-mm)
 
